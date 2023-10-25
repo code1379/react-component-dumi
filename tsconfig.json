@@ -11,6 +11,7 @@
       "jing-ui": ["src"],
       "jing-ui/*": ["src/*", "*"]
     }
+    // "allowImportingTsExtensions": true
   },
   "include": [".dumirc.ts", "src/**/*"]
 }
